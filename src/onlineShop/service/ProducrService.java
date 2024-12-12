@@ -1,4 +1,4 @@
-package onlineShop.service.Impl;
+package onlineShop.service;
 
 public interface ProducrService {
 }

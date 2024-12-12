@@ -1,4 +1,9 @@
 package onlineShop.dao;
 
-public class USerDao {
+import onlineShop.models.User;
+
+public interface UserDao {
+   void save (User user);
+    void loginDao(User gmail ,User password);
+
 }

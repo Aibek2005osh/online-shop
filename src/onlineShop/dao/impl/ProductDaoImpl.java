@@ -1,4 +1,9 @@
 package onlineShop.dao.impl;
 
-public class ProductDaoImpl {
+import onlineShop.dao.ProductDao;
+import onlineShop.models.User;
+
+public class ProductDaoImpl implements ProductDao {
+
+
 }

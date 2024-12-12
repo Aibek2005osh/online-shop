@@ -1,32 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="947c2f4d-978a-4820-913f-e0e0e42a659c" name="Changes" comment="" />
+    <list default="true" id="947c2f4d-978a-4820-913f-e0e0e42a659c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/onlineShop/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/onlineShop/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/onlineShop/dao/ProductDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/onlineShop/dao/ProductDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/onlineShop/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/onlineShop/dao/UserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/onlineShop/dao/impl/ProductDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/onlineShop/dao/impl/ProductDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/onlineShop/dao/impl/UserDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/onlineShop/dao/impl/UserDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/onlineShop/databece/Databece.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/onlineShop/databece/Databece.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/onlineShop/enoms/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/onlineShop/enoms/Category.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/onlineShop/enoms/Color.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/onlineShop/enoms/Color.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/onlineShop/enoms/Role.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/onlineShop/enoms/Role.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/onlineShop/enoms/Size.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/onlineShop/enoms/Size.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/onlineShop/models/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/onlineShop/models/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/onlineShop/models/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/onlineShop/models/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/onlineShop/service/BasketService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/onlineShop/service/BasketService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/onlineShop/service/Impl/BaskerServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/onlineShop/service/Impl/BaskerServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/onlineShop/service/Impl/ProducrServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/onlineShop/service/Impl/ProducrServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/onlineShop/service/Impl/UserserviceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/onlineShop/service/Impl/UserserviceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/onlineShop/service/ProducrService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/onlineShop/service/ProducrService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/onlineShop/service/Usersrvice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/onlineShop/service/Usersrvice.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Aibek2005osh"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Aibek2005osh/online-shop.git",
+    "accountId": "d5b013f9-da25-4042-9833-7df4ee71ebf5"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2pZ7GCAx33J0wEhDtVO2jYiBxhr" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/NoutSpace/IdeaProjects/online shop/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/NoutSpace/IdeaProjects/online shop/src/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -41,11 +87,10 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>11</line>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>

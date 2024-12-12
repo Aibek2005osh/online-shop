@@ -1,4 +1,11 @@
 package onlineShop.enoms;
 
-public enum size {
+public enum Size {
+    XXL,
+    XS,
+    S,
+    M,
+    L,
+    XL,
+    XXS
 }

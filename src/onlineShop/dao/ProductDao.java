@@ -1,4 +1,8 @@
 package onlineShop.dao;
 
-public class ProductDao {
+import onlineShop.databece.Databece;
+import onlineShop.models.User;
+
+public interface ProductDao {
+
 }
