@@ -57,8 +57,6 @@ public class UserserviceImpl implements Usersrvice {
                 password.setPassword(scanner.nextLine());
             }
         }
-
-
         userDao.loginDao(gmail, password);
 
 
